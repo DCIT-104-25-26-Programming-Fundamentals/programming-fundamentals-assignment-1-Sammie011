@@ -44,7 +44,7 @@ for i in range(2, number):
 
 return true
 
-number= int(input("Enter a number: "))
+number = int(input("Enter a number: "))
 
 if is_prime(number):
   print(f"{number} is a prime number.")
